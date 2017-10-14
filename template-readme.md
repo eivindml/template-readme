@@ -1,8 +1,8 @@
-<center>![Github readme banner/logo](banner.png)</center>
+# ![pageres](media/promo.png)
 
-# {{ project.name }}
----
 Add shields/badges if relevant: https://github.com/badges/shields
+
+[![License](https://img.shields.io/github/license/eivindml/template-readme.svg)](license)
 
 Remove project title, if title is in header.
 
@@ -13,10 +13,16 @@ Emojis makes everything more fun! 🦊
 
 ## Example how to use project / Usage
 
-## Gettings started / installation
+## Gettings started / Installation
+
+## Related
+
+* [related-project](http://github.com/eivindml/) – Description of project
 
 ## Release history
 
-## Licensing and Contributors
-
 ## Acknowledgements
+
+## License
+
+MIT © [Eivind Mikael Lindbråten](http://madebymist.com)

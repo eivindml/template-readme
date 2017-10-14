@@ -12,10 +12,10 @@ rm -rf template-readme
 
 ## Gettings started
 
-Update description and images/badges in README.md.
+Update description and images/badges in README.md. Note that project defaults to MIT license. Make sure to update if needed.
 
 ## Release history
 
-## Licensing and Contributors
+## License
 
-## Acknowledgements
+MIT © [Eivind Mikael Lindbråten](http://madebymist.com)
