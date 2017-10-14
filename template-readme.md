@@ -1,8 +1,27 @@
-# ![pageres](media/promo.png)
+# ![template-readme](github/github.svg)
 
+<center>
 [![License](https://img.shields.io/github/license/eivindml/template-readme.svg)](license)
+[![Donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat)](https://www.paypal.me/eivindml)
+<br />
+<br />
+</center>
 
+<center>
 Description paragraph here. Maybe illustration image or gif if relevant to show something visual. Emojis makes everything more fun! 🦊
+</center>
+
+## Table of Contents
+
+- [template-readme](#template-readme)
+	- [Table of Contents](#table-of-contents)
+	- [Example how to use project / Usage](#example-how-to-use-project-usage)
+	- [Gettings started / Installation](#gettings-started-installation)
+	- [Related](#related)
+	- [Release history](#release-history)
+	- [Acknowledgements](#acknowledgements)
+	- [Contributors](#contributors)
+	- [License](#license)
 
 ## Example how to use project / Usage
 

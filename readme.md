@@ -11,10 +11,12 @@ Update description and images/badges in readme.md. Note that project defaults to
 - [ ] Remove sections not needed and replace placeholder text
 - [ ] Add image banner or title
 - [ ] Add/remove fitting shields from [shields.io](https://shields.io)
+- [ ] Update Table of Contents
 
 ## Examples
 
 * [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
+* [awesome-readme](https://github.com/matiassingers/awesome-readme) – Cureated list of awesome readme's
 
 ## License
 
