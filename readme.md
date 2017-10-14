@@ -16,6 +16,9 @@
 
 <p align="center">
 👨🏼‍🍳 A readme template to use for projects. To give quality and concistency to readme's.
+
+<br />
+<br />
 </p>
 
 ## Table of Contents
