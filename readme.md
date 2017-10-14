@@ -1,21 +1,21 @@
-# README template
+# readme.md template
 
-A README template to use for projects. To give quality and concistency to README's.
+A readme template to use for projects. To give quality and concistency to readme's.
 
 ## Usage
 
-```
-git clone --depth=1 git://github.com/eivindml/template-readme
-cp template-readme/TEMPLATE-README.md README.md
-rm -rf template-readme
-```
+Update description and images/badges in readme.md. Note that project defaults to MIT license. Make sure to update if needed.
 
-## Gettings started
+### Steps
 
-Update description and images/badges in README.md. Note that project defaults to MIT license. Make sure to update if needed.
+- [ ] Remove sections not needed and replace placeholder text
+- [ ] Add image banner or title
+- [ ] Add/remove fitting shields from [shields.io](https://shields.io)
 
-## Release history
+## Examples
+
+* [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
 
 ## License
 
-MIT © [Eivind Mikael Lindbråten](http://madebymist.com)
+[MIT](license) © [Eivind Mikael Lindbråten](http://madebymist.com)

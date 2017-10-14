@@ -1,15 +1,8 @@
 # ![pageres](media/promo.png)
 
-Add shields/badges if relevant: https://github.com/badges/shields
-
 [![License](https://img.shields.io/github/license/eivindml/template-readme.svg)](license)
 
-Remove project title, if title is in header.
-
-Description paragraph here. Maybe illustration image or gif if relevant to show something visual.
-Good example: https://github.com/sindresorhus/pageres
-
-Emojis makes everything more fun! 🦊
+Description paragraph here. Maybe illustration image or gif if relevant to show something visual. Emojis makes everything more fun! 🦊
 
 ## Example how to use project / Usage
 
@@ -22,6 +15,8 @@ Emojis makes everything more fun! 🦊
 ## Release history
 
 ## Acknowledgements
+
+## Contributors
 
 ## License
 
