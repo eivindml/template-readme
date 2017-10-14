@@ -6,12 +6,14 @@
     </a>
 
     <a href="https://www.paypal.me/eivindml">
-        <img alt="Donate" src="https://img.shields.io/badge/$-donate-ff69b4.svg?style=flat">
+        <img alt="Donate" src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
     </a>
 
     <br />
     <br />
+</p>
 
+<p align="center">
     Description paragraph here. Maybe illustration image or gif if relevant to show something visual. Emojis makes everything more fun! 🦊
 </p>
 
