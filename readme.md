@@ -1,6 +1,28 @@
-# readme.md template
+# ![template-readme](github/github.svg)
 
-A readme template to use for projects. To give quality and concistency to readme's.
+<p align="center">
+    <a href="license">
+        <img alt="License" src="https://img.shields.io/github/license/eivindml/template-readme.svg">
+    </a>
+
+    <a href="https://www.paypal.me/eivindml">
+        <img alt="Donate" src="https://img.shields.io/badge/$-donate-ff69b4.svg?style=flat">
+    </a>
+
+    <br />
+    <br />
+
+    👨🏼‍🍳 A readme template to use for projects. To give quality and concistency to readme's.
+</p>
+
+## Table of Contents
+
+- [template-readme](#template-readme)
+	- [Table of Contents](#table-of-contents)
+	- [Usage](#usage)
+        - [Steps](#steps)
+	- [Examples](#examples)
+	- [License](#license)
 
 ## Usage
 
