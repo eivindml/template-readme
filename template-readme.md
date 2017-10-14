@@ -1,8 +1,8 @@
 # ![template-readme](github/github.svg)
 
 <center>
-[![License](https://img.shields.io/github/license/eivindml/template-readme.svg)](license)
-[![Donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat)](https://www.paypal.me/eivindml)
+<a href="license"><img alt="License" src="https://img.shields.io/github/license/eivindml/template-readme.svg"></a>
+<a href="https://www.paypal.me/eivindml"><img alt="Donate" src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat"></a>
 <br />
 <br />
 </center>
