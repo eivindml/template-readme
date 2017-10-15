@@ -1,12 +1,12 @@
-# ![template-readme](github/github.svg)
+# ![<%= name %>](github/github.svg)
 
 <p align="center">
 
 <a href="license">
-<img alt="License" src="https://img.shields.io/github/license/eivindml/template-readme.svg">
+<img alt="License" src="https://img.shields.io/github/license/<%= username %>/<%= repoName %>.svg">
 </a>
 
-<a href="https://www.paypal.me/eivindml">
+<a href="https://www.paypal.me/<%= username %>">
 <img alt="Donate" src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
 </a>
 
@@ -15,28 +15,31 @@
 </p>
 
 <p align="center">
-Description paragraph here. Maybe illustration image or gif if relevant to show something visual. Emojis makes everything more fun! 🦊
+<%= description %>
+
+<br />
+<br />
 </p>
 
 ## Table of Contents
 
-- [template-readme](#template-readme)
+- [<%= name %>](#<%= name %>)
 	- [Table of Contents](#table-of-contents)
-	- [Example how to use project / Usage](#example-how-to-use-project-usage)
-	- [Gettings started / Installation](#gettings-started-installation)
+	- [Usage](#usage)
+	- [Installation](#installation)
 	- [Related](#related)
 	- [Release history](#release-history)
 	- [Acknowledgements](#acknowledgements)
 	- [Contributors](#contributors)
 	- [License](#license)
 
-## Example how to use project / Usage
+## Usage
 
-## Gettings started / Installation
+## Installation
 
 ## Related
 
-* [related-project](http://github.com/eivindml/) – Description of project
+* [related-project](http://github.com/) – Description of project
 
 ## Release history
 
@@ -46,4 +49,4 @@ Description paragraph here. Maybe illustration image or gif if relevant to show 
 
 ## License
 
-MIT © [Eivind Mikael Lindbråten](http://madebymist.com)
+[MIT](license) © [<%= full-name %>](<%= websiteUrl %>)
