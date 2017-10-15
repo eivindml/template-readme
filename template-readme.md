@@ -49,4 +49,4 @@
 
 ## License
 
-[MIT](license) © [<%= full-name %>](<%= websiteUrl %>)
+[MIT](license) © [<%= fullName %>](<%= websiteUrl %>)
