@@ -23,7 +23,7 @@
 
 ## Table of Contents
 
-- [<%= name %>](#<%= name %>)
+- [<%= name %>](#)
 	- [Table of Contents](#table-of-contents)
 	- [Usage](#usage)
 	- [Installation](#installation)
@@ -49,4 +49,4 @@
 
 ## License
 
-[MIT](license) © [<%= fullName %>](<%= websiteUrl %>)
+[MIT](LICENSE) © [<%= fullName %>](<%= websiteUrl %>)
